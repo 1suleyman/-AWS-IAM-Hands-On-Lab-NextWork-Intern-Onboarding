@@ -2,6 +2,8 @@
 
 In this project, I onboarded a new intern into our AWS environment while securely managing access to development and production resources. By the end, the intern could access **development EC2 instances** but **not production**, thanks to the **IAM policies, groups, and users** I set up.
 
+<img width="1742" height="1346" alt="image" src="https://github.com/user-attachments/assets/359d3120-a3a3-4754-a842-5cac6045e414" />
+
 ---
 
 ## 📋 My Project Steps
